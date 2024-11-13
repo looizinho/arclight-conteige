@@ -27,7 +27,7 @@ wss.on('connection', (ws) => {
   });
 });
 
-console.log(`Servidor WebSocket iniciado na porta ${WS_PORT}`);
+console.log(`Servidor WebSocket iniciado`);
 
 /*
 const chalk = require('chalk');
